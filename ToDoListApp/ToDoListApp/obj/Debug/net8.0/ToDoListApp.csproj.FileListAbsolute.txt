@@ -1,0 +1,15 @@
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.exe
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.deps.json
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.runtimeconfig.json
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.dll
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\bin\Debug\net8.0\ToDoListApp.pdb
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfo.cs
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.sourcelink.json
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.dll
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\refint\ToDoListApp.dll
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
+C:\Users\90507\Desktop\DERS\Postgraduate\Master's Degree\Scholar Year\İleri Programlama Dilleri\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll
