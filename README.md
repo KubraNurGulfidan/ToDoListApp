@@ -1,6 +1,6 @@
-### ToDoListApp (C# / WinForms)
+# ToDoListApp (C# / WinForms)
 
-(TR)
+##(TR)
 ## Proje Hakkında
 Bu proje, günlük görevlerin yönetimini sağlamak amacıyla geliştirilmiş masaüstü tabanlı bir To-Do List uygulamasıdır. Kullanıcıların görev eklemesine, düzenlemesine, tamamlandı olarak işaretlemesine ve silmesine olanak tanır. Nesne Yönelimli Programlama (OOP) prensipleri kullanılarak C# dili ile geliştirilmiştir.
 
@@ -26,7 +26,7 @@ Bu proje, günlük görevlerin yönetimini sağlamak amacıyla geliştirilmiş m
    ```bash
    dotnet run
 
-(EN)
+##(EN)
 ## About the Project
 This project is a desktop-based To-Do List application developed to manage daily tasks. It allows users to add, edit, mark as completed, and delete tasks. Developed with C# using Object-Oriented Programming (OOP) principles.
 
